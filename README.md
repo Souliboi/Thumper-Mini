@@ -175,7 +175,7 @@ Your completed Thumper Mini should look like the following images and be able to
 
 To attach to your chosen hotend/toolhead, use button or socket head M3 screws, which may vary in length depending on the specific design you choose.
 
-For any questions or suggestions on revisions to this toolhead (along with ordering printed parts kits out of ASA, PA6, PPA, or SLS Nylon 12) feel free to reach out to this email or contact "thatoneguy9242" on Discord.
+For any questions or suggestions on revisions to this toolhead (along with ordering printed parts kits out of ASA, PA6, PPA, or SLS Nylon 12) feel free to reach out to HowardB@causalitymfg.com or contact "thatoneguy9242" on Discord.
 
 ![Thumper Mini fully assembled](./Pictures/Fully-Assembled.jpg "Thumper Mini fully assembled")
 
