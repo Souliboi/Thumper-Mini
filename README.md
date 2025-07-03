@@ -57,6 +57,7 @@ You can use a powered drill as well with the requirement that you use it on a ve
 ## Parts
 Before proceeding, check to make sure that you have all of the correct printed parts (especially if disassembling your current extruder for components to build this one). 
 Off the shelf parts are found in the [BOM](https://docs.google.com/spreadsheets/d/1SlgQEobs8GpUgC1vk9rLLB1YgPafcE0acxdChgo-cXE/edit?usp=sharing).
+
 One of each of the following parts is required.
 
 | Main Body | Motor Plate |
